@@ -11,10 +11,13 @@ This project will relate directly with the data collected and used in the pyStoc
 
 
 ## Intended Approach
-  1. User login and authentication
-  2. Basic stock symbol lookup with basic history
+  1. User registration, login and authentication
+  2. Basic stock symbol lookup with basic history - more to come later
   3. Portfolio creation and transaction add
   4. Determine next steps with regard to progressive development
+    * coparison charts
+	* index history and other comparisons
+	* performance and projections by sector and other historical metrics
   
 
 ## Author
